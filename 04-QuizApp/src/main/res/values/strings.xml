@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="iqname">Intelligence test</string>
+    <string name="app_showresult">Show result</string>
+    <string name="question1">1)How many four-sided figures appear in the diagram below?</string>
+    <string name="question2">2)Which one of the numbers does not belong in the following series?  1 - 2 - 5 - 10 - 13 - 26 - 29 - 48  </string>
+    <string name="question3">3)Ralph likes 25 but not 24; he likes 400 but not 300; he likes 144 but not 145. Which does he like: </string>
+    <string name="question4">4)Marta, who is sixteen years old, is four times as old as her brother. How old will Mary be when she is twice as old as her brother? </string>
+    <string name="question5">5)Which of the figures below the line of drawings best completes the series?</string>
+    <string name="question6">6)Which of the figures below the line of drawings best completes the series?</string>
+    <string name="question7">7) Which numbers do belong in the following series?</string>
+    <string name="answer1_1">10 </string>
+    <string name="answer1_2">16 </string>
+    <string name="answer1_3">22</string>
+    <string name="answer1_4">25</string>
+    <string name="answer2_1">1 </string>
+    <string name="answer2_2">5 </string>
+    <string name="answer2_3">29 </string>
+    <string name="answer2_4">48 </string>
+    <string name="answer3_1">10</string>
+    <string name="answer3_2">50 </string>
+    <string name="answer3_3">124</string>
+    <string name="answer3_4">1600</string>
+    <string name="answer4_1">20 </string>
+    <string name="answer4_2">24 </string>
+    <string name="answer4_3">25 </string>
+    <string name="answer4_4">28</string>
+    <string name="answer5_1">a </string>
+    <string name="answer5_2">b </string>
+    <string name="answer5_3">c </string>
+    <string name="answer5_4">d </string>
+    <string name="answer7_1">THREE</string>
+    <string name="answer7_2">SEVEN</string>
+    <string name="answer7_3">EIGHT</string>
+    <string name="answer7_4">FIFTEEN</string>
+    <string name="iq1">You are a genious!!</string>
+    <string name="iq2">Your IQ is less than mine!!</string>
+    <string name="yourscore">your score is</string>
+    <string name="from">from </string>
+    <string name="username">username</string>
+    <string name="login">log in</string>
+    <string name="changelanguage">change language</string>
+    <string name="message">Insert the answer</string>
+    <string name="messagefilllogin">Insert your username, please</string>
+    <string name="str_en">English</string>
+    <string name="str_es">Spanish</string>
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+    </string-array>
+</resources>

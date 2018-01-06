@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBackgroundSplashScreen"
+    tools:context="com.tuv01.quizapp.SplashScreen">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="false"
+        android:baselineAligned="false"
+        android:cropToPadding="false"
+        app:srcCompat="@drawable/iqphoto"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        style="@style/AppTitleStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/iqname"
+        android:layout_gravity="center"
+        android:textStyle="bold" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/emc2" />
+
+
+
+</LinearLayout>

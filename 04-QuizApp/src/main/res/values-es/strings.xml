@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="iqname">Test de Inteligencia</string>
+    <string name="app_showresult">Resultados</string>
+    <string name="question1">1) ¿Cuántas figuras de cuatro lados aparecen en el siguiente diagrama?</string>
+    <string name="question2">2) ¿Cuál de los números no pertenece a la siguiente serie? 1 - 2 - 5 - 10 - 13 - 26 - 29 - 48</string>
+    <string name="question3">3) A Ralph le gustan 25 pero no 24; le gustan 400 pero no 300; le gustan los 144 pero no los 145. A él le gusta:</string>
+    <string name="question4">4) Marta, que tiene dieciséis años, es cuatro veces más vieja que su hermano. ¿Qué edad tendrá Mary cuando tenga el doble de edad que su hermano?</string>
+    <string name="question5">5) ¿Cuál de las figuras debajo de la línea de dibujos completa mejor la serie?</string>
+    <string name="answer1_1">10</string>
+    <string name="answer1_2">16</string>
+    <string name="answer1_3">22</string>
+    <string name="answer1_4">25</string>
+    <string name="answer2_1">1</string>
+    <string name="answer2_2">5</string>
+    <string name="answer2_3">29</string>
+    <string name="answer2_4">48</string>
+    <string name="answer3_1">10</string>
+    <string name="answer3_2">50</string>
+    <string name="answer3_3">124</string>
+    <string name="answer3_4">1600</string>
+    <string name="answer4_1">20</string>
+    <string name="answer4_2">24</string>
+    <string name="answer4_3">25</string>
+    <string name="answer4_4">28</string>
+    <string name="answer5_1">a</string>
+    <string name="answer5_2">b</string>
+    <string name="answer5_3">c</string>
+    <string name="answer5_4">d</string>
+    <string name="iq1">Eres un genio!!!</string>
+    <string name="iq2">Tu Coeficiente intelectual es menor al mio !!!</string>
+    <string name="yourscore">Tu resultado es</string>
+    <string name="from">de</string>
+    <string name="username">usuario</string>
+    <string name="login">"iniciar sesión "</string>
+    <string name="changelanguage">Cambiar de idioma</string>
+    <string name="messagefilllogin">Inserta tu usuario</string>
+    <string name="str_en">Ingles</string>
+    <string name="str_es">Español</string>
+</resources>

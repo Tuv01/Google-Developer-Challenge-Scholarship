@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackgroundSplashScreen">#CAE0EE</color>
+    <color name="colorBackgroundQuestions">#9AC6DF</color>
+    <color name="textColor">#1c5fab</color>
+    <color name="buttonclickon">#69F0AE</color>  <!-- Background Button Click on-->
+    <color name="buttonclickoff">#B3E5FC</color> <!-- Background Button Click off-->
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="colorLila">#803F80</color>
+</resources>

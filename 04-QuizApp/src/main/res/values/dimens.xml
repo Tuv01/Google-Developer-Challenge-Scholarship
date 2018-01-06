@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin9">9dp</dimen>
+    <dimen name="margin7">7dp</dimen>
+    <dimen name="margindefault">16dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="textTitle">30sp</dimen>
+    <dimen name="textCustomToast">36sp</dimen>
+    <!-- Default Screens Margins, per the Android Design guidelines -->
+    <dimen name="activity_horizontal_margin">50dp</dimen>
+    <dimen name="activity_vertical_margin">70dp</dimen>
+    <dimen name="height0">0dp</dimen>
+    <dimen name="margin1">1dp</dimen>
+    <dimen name="weigth08">0.80</dimen>
+</resources>
