@@ -1,5 +1,5 @@
 # Google Developer Challenge Scholarship
-==========
+
  
  <br> Google Challenge 2017/2018  </br>
  <br> Google Developer Challenge Scholarship: Android Basics Nanodegree </br>
