@@ -1,10 +1,31 @@
-# Google Developer Challenge Scholarship
-
+# Google Developer Challenge Scholarship 2017/2018
+ <p align="center"> <img src="https://img.devrant.com/devrant/rant/r_961184_tvoND.jpg" width="400" height="400"> </p>
  
- <br> Google Challenge 2017/2018  </br>
- <br> Google Developer Challenge Scholarship: Android Basics Nanodegree </br>
-+ Project HelloAndroid for Lesson 5: Yours First Project-------->01-Project/HelloAndroid/src 
-+  Project Score Keeper for Lesson 9: Project Court Counter-------->03_FootballCourt/src	
-+  Project Quiz App for Lesson 12: Project Quiz App------->04-QuizApp/src 
+ ## Project: Build a Single Screen App  "01-Project/HelloAndroid/src" 
 
-![alt text](https://img.devrant.com/devrant/rant/r_961184_tvoND.jpg)
+*Created as part of Google Developer Challenge Scholarship: Android Basics Nanodegree*
+____________
+<img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_hello/123123ssa.png" width="256" height="256">
+
+
+## Project: Score Keeper App  "03_FootballCourt/src"
+
+*Created as part of Google Developer Challenge Scholarship: Android Basics Nanodegree*
+____________
+
+
+<img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_football/Screenshot_1530470827.png" width="256" height="256"> <img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_football/Screenshot_1530470835.png" width="256" height="256">
+<img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_football/Screenshot_1530470842.png" width="256" height="256"> <img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_football/Screenshot_1530470853.png" width="256" height="256">
+<img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_football/Screenshot_1530470886.png" width="256" height="256"> <img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_football/Screenshot_1530470898.png" width="256" height="256">
+
+## Project: Quiz App  "04-QuizApp/src"
+
+*Created as part of Google Developer Challenge Scholarship: Android Basics Nanodegree*
+____________
+<img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_quiz/Screenshot_1530471146.png" width="256" height="256"> <img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_quiz/Screenshot_1530471148.png" width="256" height="256">
+<img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_quiz/Screenshot_1530471168.png" width="256" height="256"> <img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_quiz/Screenshot_1530471172.png" width="256" height="256">
+<img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_quiz/Screenshot_1530471208.png" width="256" height="256"> <img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_quiz/Screenshot_1530471212.png" width="256" height="256">
+<img src="https://github.com/Tuv01/Google-Developer-Challenge-Scholarship/blob/master/master_quiz/Screenshot_1530471216.png" width="256" height="256">
+
+
+
